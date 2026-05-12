@@ -105,12 +105,8 @@ focus:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Woobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechPoDoll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechPoDoll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mechPoDoll&theme=tokyonight&hide_border=true)
+  
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mechPoDoll&theme=tokyonight&hide_border=true" />
 
 </div>
 
