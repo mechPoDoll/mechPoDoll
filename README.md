@@ -1,10 +1,10 @@
 <div align="center">
 
-# `Woobin Lee` · 이우빈
+# `Woobin Yi` · 이우빈
 
 **Backend / Full-stack Developer**
 
-> _"단순히 AI를 사용하는 것이 아닌, 팀의 표준을 설계하고 관리한다."_
+> _"단순히 AI를 사용하는 것이 아닌, 작업 표준을 설계하고 관리한다."_
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yi970711@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mechPoDoll)
