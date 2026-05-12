@@ -95,7 +95,7 @@ focus:
 ### 🔹 [claude-config](https://github.com/mechPoDoll/claude-config)
 > **CLAUDE.md 설정 관리 — 글로벌 / 프로젝트 / QA / SKILL 계층별 규칙**
 
-팀 단위 AI 개발 워크플로우 표준화를 위해 직접 설계·운영 중인 오픈소스 프로젝트입니다.
+팀 단위 AI 개발 워크플로우 표준화를 위해 직접 설계·운영 중인 프로젝트입니다.
 계층화된 규칙(Global → Project → QA → SKILL)을 통해 일관된 AI 협업 환경을 제공합니다.
 
 `Shell` · `AI Workflow` · `Team Standardization`
