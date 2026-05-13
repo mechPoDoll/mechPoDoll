@@ -19,7 +19,7 @@
 ```yaml
 name:        이우빈 (Woobin Lee)
 role:        Backend / Full-stack Developer
-experience:  2년 10개월 (현 선임개발자 3년차)
+experience:  2년 10개월
 location:    부산, 대한민국
 focus:
   - 웹 서비스 백엔드 설계 및 운영
