@@ -58,45 +58,13 @@ focus:
 
 ---
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="180"><b>인사이트</b><br><sub>2025.03 ~ 재직중</sub></td>
-<td>
-<b>개발팀 · 선임개발자 3년차</b><br>
-· 신규 프로젝트 개발 및 기존 프로젝트 유지 보수<br>
-· <b>AI 기반 개발 보조 도구의 업무 적용 가능성 및 개발 생산성 영향 분석</b><br>
-· 팀 AI 개발 워크플로우 표준화 주도
-</td>
-</tr>
-<tr>
-<td><b>아이넷</b><br><sub>2022.08 ~ 2023.01</sub></td>
-<td>
-<b>개발팀 · 사원 · 웹개발</b><br>
-· 신규 홈페이지 개발, 보안 관련 업무, DB 설계 및 기획 참여<br>
-· 자사 사이트 개발 (백엔드, DB 구축, 서버 연동, SSL 인증)
-</td>
-</tr>
-<tr>
-<td><b>티카타카</b><br><sub>2021.12 ~ 2022.06</sub></td>
-<td>
-<b>개발팀 · 사원</b><br>
-· 자사 홈페이지 유지 보수 및 신규 사이트 개발<br>
-· 차량 견적 시스템 개발 및 웹 이식, DB 관련 업무 전반
-</td>
-</tr>
-</table>
-
----
-
 ## 📌 Featured Project
 
 ### 🔹 [claude-config](https://github.com/mechPoDoll/claude-config)
 > **CLAUDE.md 설정 관리 — 글로벌 / 프로젝트 / QA / SKILL 계층별 규칙**
 
 팀 단위 AI 개발 워크플로우 표준화를 위해 직접 설계·운영 중인 프로젝트입니다.
-계층화된 규칙(Global → Project → QA → SKILL)을 통해 일관된 AI 협업 환경을 제공합니다.
+계층화된 규칙(Global → Project → SKILL → QA )을 통해 일관된 AI 협업 환경을 제공합니다.
 
 `Shell` · `AI Workflow` · `Team Standardization`
 
